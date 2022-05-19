@@ -1,0 +1,74 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+body {
+    background-color: antiquewhite;
+}
+
+
+header {
+    width: 100%;
+    background-color: azure;
+    position: fixed;
+    top: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    top: 0px;
+}
+
+h2#contact-us-title {
+    margin-top: 50px;
+}
+
+ul {
+    text-align: right;
+    margin: 0 50px 0 0;
+}
+
+footer {
+    font-weight: bolder;
+    text-align: left;
+    width: 100%;
+    color: black;
+    background-color: azure;
+    position: fixed;
+    bottom: 10px
+
+}
+
+div {
+    text-align: right;
+    position: fixed; 
+    width: 100%;
+    height: 100px;
+    color: black;
+    
+    
+}
+
+main{
+    margin-top: 150px;
+    text-align: center;
+}
+
+
+#item-1 {
+    background-color: black;
+    color: antiquewhite;
+}
+
+#item-2 {
+    background-color: black;
+    color: antiquewhite;
+}
+
+#item-3 {
+    background-color: black;
+    color: antiquewhite;
+}
+
